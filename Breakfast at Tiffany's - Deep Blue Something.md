@@ -25,7 +25,8 @@ youTubeId: 1ClCpfeIELw
 
     | D |  G  A  | (x2)
 
-## Verse 1
+## Verse 1 (Guitar Only)
+
 c1:         D
 l1: You'll say
 
@@ -38,7 +39,7 @@ l1: No common ground to start from
 c1:     G        A     D     G  A
 l1: And we're falling apart
 
-## Verse 2
+## Verse 2 (Bass Guitar Enters)
 c1:         D
 l1: You'll say
 
@@ -51,7 +52,7 @@ l1: Our lives have come between us
 c1:       G      A             D      G  A
 l1: Still I know you just don't care
 
-## Chorus
+## Chorus (Drums and Distortion)
 c1:     D                 A            G
 l1: And I said what about Breakfast at Tiffanys?
 
@@ -113,7 +114,7 @@ l1: And as I recall, I think, we both kinda liked it
 c1:     D                       A               G
 l1: And I said, well that's the one thing we've got
 
-## Verse 5
+## Verse 5 (Break, Guitar Only)
 c1: D
 l1: You'll say
 
@@ -126,7 +127,7 @@ l1: No common ground to start from
 c1:     G        A      D     G  A
 l1: And we're falling apart
 
-## Verse 6
+## Verse 6 (Bass and Hihat Enters)
 c1: D
 l1: You'll say
 
@@ -139,7 +140,7 @@ l1: Our lives have come between us
 c1:       G      A             D      G  A
 l1: Still I know you just don't care
 
-## Chorus
+## Chorus (Everyone)
 c1:     D                 A            G
 l1: And I said what about Breakfast at Tiffanys?
 
