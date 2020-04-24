@@ -23,7 +23,7 @@ youTubeId: 1ClCpfeIELw
 
 ## Intro
 
-    | D |  G  A  | (x2)
+c1: | D |  G  A  | (x2)
 
 ## Verse 1 (Guitar Only)
 
