@@ -85,7 +85,6 @@ c1: D           G                              A
 l1:   Though my dreams, it's never quite as it seems
 
 c1:                          D
-l1: 'cause you're a dream to me
-l2: Dream to me
+l1: 'cause you're a dream to me, dream to me
 
 c1: | D   | D   | G   | G   | A   | A   | D   | D   | (x4)
