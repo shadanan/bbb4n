@@ -1,7 +1,10 @@
 ---
+youTubeId: 7CVfTd-_qbc
 ---
 
 # Another Day of Sun - La La Land
+
+Capo on 3
 
 ## Intro
 c1: F    G    Am      Em
