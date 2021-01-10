@@ -7,140 +7,160 @@ youTubeId: 7CVfTd-_qbc
 Capo on 3
 
 ## Intro
-c1: F    G    Am      Em
+c1: Ab   Bb   Cm7     Gm7
 
-c1: F    G    C       Em
-
-## Optional Riff
-c1:    F                  G                   Am                 Em
-l1: e|------------------|---------------3---|-0-------0-0-------|-------------------|
-l2: B|----1-1-------1---|-----3-3---------6-|---1---------1-----|-0-------0-0-------|
-l3: G|--2---------2-----|---4---------4-----|-----2-2-------2-2-|---0---------0-----|
-l4: D|-3-------3-3----3-|-5-------5-5-------|-------------------|-----2-2-------2-2-|
-l5: A|------------------|-------------------|-------------------|-------------------|
-l6: E|------------------|-------------------|-------------------|-------------------|
+c1: Ab   Bb   Ebmaj7  Gm7
 
 ## Verse 1
-c1:    Dm                     G
+c1:    Fm7                    Bb7
 l1: I think about that day I left him at a Greyhound station
 
-c1: C                A
+c1: Ebmaj7            C7
 l1: West of Santa Fé, we were seventeen
 
-c1:             Dm                         G                 C
+c1:             Fm7                        Bb7                Ebmaj7
 l1: but he was sweet and it was true, still I did what I had to do
 
-c1:        Am
+c1:              Cm7
 l1: 'Cuz I just knew
 
-c1: Dm                        G
+c1: Fm7                       Bb7
 l1: Summer Sunday nights we'd sink into our seats
 
-c1:              C
+c1:              Ebmaj7
 l1: Right as they dimmed out all the lights
 
-c1:     A                             Dm
+c1:     C7                            Fm7
 l1: The Technicolor world made out of music and machine
 
-c1:    G                       C
+c1:    Bb7                      Ebmaj7
 l1: It called me to be on that screen
 
-c1:          Am
+c1:     Cm7               C7
 l1: And live inside each scene
 
-## Pre-Chorus
-c1:     F
+## Pre-chorus
+c1:     Ab
 l1: Without a nickel to my name
 
-c1: G
+c1: Bb
 l1: Hopped a bus, here I came
 
-c1: Am
+c1: Cm7
 l1: Could be brave or just insane
 
-c1: Em
+c1:       Gm7
 l1: We'll have to see
 
-c1: F
+c1:      Ab
 l1: 'Cuz maybe in that sleepy town
 
-c1: G
+c1:       Bb
 l1: He'll sit one day, the lights are down
 
-c1:       C                              E
+c1:       Eb                              G7
 l1: He'll see my face and think of how he used to know me
 
 ## Chorus
-c1:    F                   G              Am
-l1: Climb these hills I'm reaching for the heights
+c1:    Ab                   Bb              Cm7
+l1: Behind these hills I'm reaching for the heights
 
-c1:      Dm              G         C
+c1:      Fm7             Bb7        Ebmaj7
 l1: And chasing all the lights that shine
 
-c1:     Am                 G
+c1:     Cm7                Bb
 l1: And when they let you down (it's another day of sun)
 
-c1:        Am              G
+c1:        Cm7             Bb
 l1: You'll get up off the ground (it's another day of sun)
 
-c1:    Am             G                           C       E
+c1:    Cm7            Bb                           Ebmaj    G7
 l1: As morning rolls around and it's another day of sun
 
 ## Verse 2
-c1:   Dm                      G                              C
-l1: I hear 'em ev'ry day, the rhythms in the canyons that'll never fade away 
+c1:   Fm7
+l1: I hear them everyday
 
-c1: A                                   Dm
-l1: The ballads in the barrooms left by those who came before
+c1:     Bb7                             Ebmaj7
+l1: The rhythms in the canyons that will never fade away 
 
-c1: G                           C
-l1: They say "you gotta want it more"
+c1:     C7                                Fm7
+l1: The ballads in the ballrooms left by those who came before
 
-c1:      Am
-l1: So I bang on ev'ry door
+c1:      Bb7                  Ebmaj7     Cm7            C7
+l1: They say we got to want it more so I bang on every door
 
 ## Pre-chorus
-c1:     F
-l1: And even when the answer's "no"
+c1:     Ab
+l1: And even when the answer's no
 
-c1: G
+c1:     Bb
 l1: Or when my money's running low
 
-c1: Am
-l1: The dusty mic and neon glow
+c1:     Cm7                            Gm7
+l1: The disc and mic and neon glow are all I need
 
-c1: Em
-l1: Are all I need
+c1:     Ab
+l1: And some day as I sing the song
 
-c1: F
-l1: And someday as I sing my song
+c1:    Bb
+l1: A small-town kid will come along
 
-c1: G
-l1: A small-town kid'll come along
-
-c1: C                                   E
-l1: That'll be the thing to push him on and go go
+c1: Ebmaj7                           G7
+l1: That'll be the thing to push him on and he'll go
 
 ## Chorus
-c1:    F                   G              Am
-l1: Climb these hills I'm reaching for the heights
+c1:    Ab                   Bb              Cm7
+l1: Behind these hills I'm reaching for the heights
 
-c1:      Dm              G         C
+c1:      Fm7             Bb7        Ebmaj7
 l1: And chasing all the lights that shine
 
-c1:     Am                 G
+c1:     Cm7                Bb
 l1: And when they let you down (it's another day of sun)
 
-c1:        Am              G
+c1:        Cm7             Bb
 l1: You'll get up off the ground (it's another day of sun)
 
-c1:    Am             G                           C       E
+c1:    Cm7            Bb                           Ebmaj    G7
 l1: As morning rolls around and it's another day of sun
 
-## Instrumental Break
- 
-c1: Dm       G            C
-l1: And when they let you down
+## Instrumental
+c1: Ab   Bb   Cm7     Gm7
 
-c1: A           Dm    G
+c1: Ab   Bb   Ebmaj7  Gm7    (2x)
+
+## Bridge
+c1: Cm7                Bb
+l1: When they let you down
+
+c1:     Cm7            Bb7
 l1: The morning rolls around
+
+## Outro
+c1:                      A  B
+l1: It's another day of sun
+
+c1:                     C#m B
+l1: It's another day of sun
+
+c1:                      A  B
+l1: It's another day of sun
+
+c1:                     C#m B
+l1: It's another day of sun
+
+c1:                      A  B
+l1: Just another day of sun
+
+c1:                     C#m B
+l1: It's another day of sun
+
+c1:                      A  B
+l1: The day has just begun...
+
+c1:                      A  B  C#m  A G#m   A  B  C#m  G#7
+l1: It's another day of sun
+
+c1:                      E
+l1: It's another day of sun
