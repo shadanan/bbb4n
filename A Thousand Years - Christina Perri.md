@@ -1,5 +1,8 @@
 ---
 youTubeId: rtOvBOTyX00
+chords:
+  G/B:
+    - m1 n2,2 n4,3 m5
 ---
 
 # A Thousand Years - Christina Perri
