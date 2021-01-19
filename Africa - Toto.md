@@ -17,19 +17,19 @@ c1: A G#m C#m
 c1: B                D#m       G#m
 l1: I hear the drums echoing tonight
 
-c1: B              A                C#m         G#m A  G#m C#m
+c1: B              A                C#m         G#m A G#m C#m
 l1: She hears only whispers of some quiet conversation
 
 c1: B                 D#m           G#m
 l1: She's coming in, twelve thirty flight
 
-c1: B                   A                    C#m7               G#m A  G#m C#m
+c1: B                   A                    C#m7               G#m A G#m C#m
 l1: The moonlit wings reflect the stars that guide me toward salvation
 
 c1: B            D#m               G#m
 l1: I stopped an old man along the way
 
-c1: B                   A             C#m              G#m A    G#m C#m
+c1: B                   A             C#m              G#m A   G#m C#m
 l1: Hoping to find some old forgotten words or ancient melodies
 
 c1: B            D#m         G#m                  A                 C#m
@@ -57,7 +57,7 @@ c1: A G#m C#m
 c1: B             D#m            G#m
 l1: The wild dogs cry out in the night
 
-c1: B/F#                  A/E              C#m      G#m  A G#m C#m
+c1: B                     A                C#m      G#m  A G#m C#m
 l1: As they grow restless longing for some solitary company
 
 c1: B           D#m              G#m
