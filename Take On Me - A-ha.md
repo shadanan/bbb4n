@@ -1,4 +1,5 @@
 ---
+youTubeId: djV11Xbc914
 ---
 
 # Take On Me - A-ha
@@ -18,7 +19,7 @@ l1: Well, I don't know what I'm to say
 c1:      Am        D
 l1: I'll say it anyway
 
-c1:   G              C      C/B
+c1:   G             C      C/B
 l1: Today's another day to find you
 
 c1: Am       D
@@ -41,7 +42,7 @@ c1:             G    D   Em   C
 l1: In a day or two...
 
 ## Verse
-c1:    Am           D
+c1:    Am          D
 l1: So needless to say
 
 c1:     G              C        C/B
@@ -84,7 +85,7 @@ c1: Am  D  G  C/B
 c1: Am  D  Am D
 
 ## Verse
-c1:     Am                   D
+c1:     Am                  D
 l1: Oh, the things that you say
 
 c1:       G             C       C/B
