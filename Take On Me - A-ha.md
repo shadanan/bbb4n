@@ -4,7 +4,8 @@
 # Take On Me - A-ha
 
 ## Intro
-Am  D  G  C C/B x2
+c1: Am  D  G  C C/B (x2)
+
 c1: Am  D  Am  D
 
 ## Verse
