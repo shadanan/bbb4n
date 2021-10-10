@@ -12,15 +12,17 @@ l1: We are two mariners, our ships' sole survivors
 
 c1:                    E
 l1: In this belly of a whale
-l2: Its ribs our ceiling beams, its guts our carpeting
+
+l1: Its ribs our ceiling beams, its guts our carpeting
 
 c1:                              Am
 l1: I guess we have some time to kill
-l2: You may not remember me, I was a child of three
+
+l1: You may not remember me, I was a child of three
 
 c1:                      E
 l1: And you a lad of eighteen
-l2: But I remember you and I will relay to you
+l1: But I remember you and I will relay to you
 
 c1:                        Am
 l1: How our histories interweave
@@ -37,7 +39,7 @@ l1: You had a charming air, all cheap and debonair
 
 c1:                            E
 l1: My widowed mother found so sweet
-l2: And so she took you in, her sheets still warm with him
+l1: And so she took you in, her sheets still warm with him
 
 c1:                                  Am
 l1: Now filled with filth and foul disease
@@ -54,7 +56,7 @@ l1: And then you dissapeared, your gambling arrears
 
 c1:                         E
 l1: The only thing you left behind
-l2: And then the magistrate reclaimed our small estate
+l1: And then the magistrate reclaimed our small estate
 
 c1:                             Am
 l1: And my poor mother lost her mind
@@ -68,11 +70,11 @@ l1: But before she did I took her hand as she dying cried, oh
 ## Chorus
 c1:  Dm
 l1: "Find him, bind him
-l2: Tie him to a pole and break his
+l1: Tie him to a pole and break his
 
 c1: Am
 l1: Fingers to splinters
-l2: Drag him to a hole until he
+l1: Drag him to a hole until he
 
 c1: Dm
 l1: Wakes up naked
@@ -89,7 +91,7 @@ l1: It took me fifteen years to swallow all my tears
 
 c1:                          E
 l1: Among the urchins in the street
-l2: Until a priory took pity and hired me
+l1: Until a priory took pity and hired me
 
 c1:                               Am
 l1: To keep their vestry nice and neat
@@ -106,7 +108,7 @@ l1: One night I overheard the prior exhanging words
 
 c1:                                 E
 l1: With a penitent whaler from the sea
-l2: The captain of his ship who matched you toe to tip
+l1: The captain of his ship who matched you toe to tip
 
 c1:                           Am
 l1: Was known for wanton cruelty
@@ -120,11 +122,11 @@ l1: And in the whistle of the wind I could almost hear, oh
 ## Chorus
 c1:  Dm
 l1: "Find him, bind him
-l2: Tie him to a pole and break his
+l1: Tie him to a pole and break his
 
 c1: Am
 l1: Fingers to splinters
-l2: Drag him to a hole until he
+l1: Drag him to a hole until he
 
 c1: Dm
 l1: Wakes up naked
@@ -160,7 +162,7 @@ l1: And then that fateful night we had you in our sight
 
 c1:                        E
 l1: After twenty months at sea
-l2: Your starboard flank a beam, I was getting my muskets clean
+l1: Your starboard flank a beam, I was getting my muskets clean
 
 c1:                              Am
 l1: when came this rumbling from beneath
@@ -177,7 +179,7 @@ l1: Don't know how I survived, the crew all was chewed alive
 
 c1:                                 E
 l1: I must have slipped between his teeth
-l2: But oh what providence, what divine intelligence
+l1: But oh what providence, what divine intelligence
 
 c1:                                    Am
 l1: That you should survive as well as me
