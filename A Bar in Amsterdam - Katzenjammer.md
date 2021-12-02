@@ -4,7 +4,6 @@ youTubeId: -kbdCDeKSoI
 
 # A Bar in Amsterdam - Katzenjammer
 
-
 ## Intro
 
 :::abc
