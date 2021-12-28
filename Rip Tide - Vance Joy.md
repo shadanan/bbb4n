@@ -6,7 +6,7 @@ youTubeId: uJ_1HMAGb4k
 
 ## Intro: (Ukulele)
 
-Am           G                   C (x2)
+c1: Am           G                   C (x2)
 
 ## Verse 1: (Ukulele, Hihat)
 
