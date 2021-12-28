@@ -27,7 +27,7 @@ l1: You're the magicians assistant in their dreams.
 c1: Am     G    C
 l1: Ooh, ooh ooh
 
-l2: Am    G           C (hold)
+c1: Am    G           C (hold)
 l1: Ooh, and they come unstuck
 
 ## Chorus: (All + Bells)
@@ -79,7 +79,7 @@ l1: If you're gonna, if you're gonna stay,
 c1: Am                                   G
 l1: I just gotta, I just gotta know,
 
-l2: C                                                F (strum and hold)
+c1: C                                                F (hold)
 l1: I can't have it, I can't have it any other way
 
 Strum once and hold: (Bass, Kick, Bells on down beat)
