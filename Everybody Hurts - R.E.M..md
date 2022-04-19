@@ -22,12 +22,13 @@ l1: When the day is long and the night,    the night is yours alone
 
 c1:                                G                 D                 G
 l1: When you're sure you've had enough of this life,    well hang on
-l2: e|--------------|
-l3: B|--------------|
-l4: G|-----0-----0--|
-l5: D|---0-----0----|
-l6: A|--------------|
-l7: E|-3-----2------|
+
+l1: e|--------------|
+l2: B|--------------|
+l3: G|-----0-----0--|
+l4: D|---0-----0----|
+l5: A|--------------|
+l6: E|-3-----2------|
 
 ## Chorus
  
@@ -49,12 +50,13 @@ l1: If you feel like letting go              (hold on)
 
 c1:                               G              D                 G
 l1: When you think you've had too much of this life,     well hang on
-l2: e|--------------|
-l3: B|--------------|
-l4: G|-----0-----0--|
-l5: D|---0-----0----|
-l6: A|--------------|
-l7: E|-3-----2------|
+
+l1: e|--------------|
+l2: B|--------------|
+l3: G|-----0-----0--|
+l4: D|---0-----0----|
+l5: A|--------------|
+l6: E|-3-----2------|
 
 ## Chorus
  
@@ -79,12 +81,13 @@ l1:     If you're on your own    in this life,    the days and nights are long
 
 c1: D                                G                    D              G
 l1:     When you think you've had too much, of this life,    to hang on
-l2: e|--------------|
-l3: B|--------------|
-l4: G|-----0-----0--|
-l5: D|---0-----0----|
-l6: A|--------------|
-l7: E|-3-----2------|
+
+l1: e|--------------|
+l2: B|--------------|
+l3: G|-----0-----0--|
+l4: D|---0-----0----|
+l5: A|--------------|
+l6: E|-3-----2------|
 
 ## Chorus
  
