@@ -141,10 +141,12 @@ c1: C#m7b5 Cadd9 Bm7 Bb
 
 ## Bridge
  
- Cadd9*
-Ochite iku to
-  Bm7*
-wakatte ita 
+c1:  Cadd9
+l1: Ochite iku to
+
+c1:   Bm7
+l1: wakatte ita 
+
 c1:  Am        Bm7
 l1: soredemo hikari wo
 
