@@ -6,36 +6,36 @@ youTubeId: iCE_4Iqklz4
 
 ## Chorus
  
-c1:       Cadd9 D   Em
-l1: Habatai-----ta--ra 
+c1:       Cadd9 D  Em
+l1: Habatai     ta ra 
 
 c1:        Am7 D    G
 l1: modorana---i to itte 
 
-c1:         Cmaj7 B7  Em
-l1: Mezashita---- no--wa 
+c1:         Cmaj7 B7 Em
+l1: Mezashita     no wa 
 
 c1: Cadd9 D     Em
-l1: aoi aoi ano sora 
+l1: aoi   aoi ano sora 
 
 ## Instrumental 1
  
-c1: Cadd9 D Bm7 Em Am7  Cadd9 B
+c1: Cadd9 D Bm7 Em Am7 Cadd9 B
 
-c1: Cadd9 D Bm7 Em Am7  Cmaj7 B7
+c1: Cadd9 D Bm7 Em Am7 Cmaj7 B7
 
 ## Verse 1
  
-c1:         Em7       D Cadd9   G
-l1: "Kanashimi" wa mada oboera--rezu 
+c1:         Em7       D    Cadd9 G
+l1: "Kanashimi" wa mada oboerarezu 
 
-c1:         Am7     G     F#m7b5    B7
-l1: "setsunasa" wa ima tsukamihaji--meta 
+c1:         Am7     G         F#m7b5 B7
+l1: "setsunasa" wa ima tsukamihaji meta 
 
-c1:       Em7       D     Cadd9  G
-l1: Anata e to idaku kono kanjou mo 
+c1:       Em7  D         Cadd9  G
+l1: Anata eto idaku kono kanjou mo 
 
-c1:          Am7  D        Em7
+c1:        Am7   D      Em7
 l1: ima "kotoba" ni kawatte iku 
 
 ## Pre-Chorus
