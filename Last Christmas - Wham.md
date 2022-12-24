@@ -34,13 +34,14 @@ c1:      A
 l1: I'll give it to someone special
 
 ## Interlude
-| D | % | Bm | % | Em | % | A | % |
- 
+c1: | D | D | Bm | Bm | Em | Em | A | A |
+
 ## Verse 1
 c1: D
 l1:  Once bitten and twice shy
-l2: Bm                                        [ Em ]
-l3:  I keep my distance but you still catch my eye
+
+c1: Bm
+l1:  I keep my distance but you still catch my eye
 
 c1: Em
 l1:  Tell me baby do you recognize me?
@@ -89,7 +90,7 @@ c1:      A
 l1: I'll give it to someone special
 
 ## Interlude
-| D | % | Bm | % | Em | % | A | % |
+c1: | D | D | Bm | Bm | Em | Em | A | A |
  
 ## Verse 3
 c1: D
@@ -107,9 +108,10 @@ l1: Me? I guess I was a shoulder to cry on
 ## Verse 4
 c1:   D
 l1: A face on a lover with a fire in his heart
-l2:   Bm                                    [ Em ]
-l3: A man undercover but you tore him apart
-l4:                         (To-o-ore   me  apa-art)
+
+c1:   Bm
+l1: A man undercover but you tore him apart
+l2:                         (To-o-ore   me  apa-art)
 
 c1: Em
 l1:     Ooh-hoo
@@ -153,10 +155,12 @@ l1: A man undercover but you tore him apart
 c1: Em
 l1:  Maybe ... next year ...
 l2: (spoken)
-l3:      A                                              [ D ]
-l4: I'll give it to someone, I'll give it to someone ... special
+
+c1:      A                                               D
+l1: I'll give it to someone, I'll give it to someone ... special
 
 ## Fade-out
-|  D  |  %  | Bm | % |
-   Special!    Someone ...
-| Em | % | A | % |
+c1: |  D  |  D  | Bm | Bm |
+l1:    Special!    Someone ...
+
+c1: | Em | Em | A | A |
