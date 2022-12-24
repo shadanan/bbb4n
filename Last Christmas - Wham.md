@@ -41,10 +41,10 @@ c1: D
 l1:  Once bitten and twice shy
 
 c1: Bm
-l1:  I keep my distance but you still catch my eye
+l1:   I keep my distance but you still catch my eye
 
 c1: Em
-l1:  Tell me baby do you recognize me?
+l1:   Tell me baby do you recognize me?
 
 c1: A
 l1:  Well, it's been a year, it doesn't surprise me
@@ -97,10 +97,10 @@ c1: D
 l1:  Crowded room, friends with tired eyes
 
 c1: Bm
-l1:  Hiding from you and your soul of ice
+l1:   Hiding from you and your soul of ice
 
 c1: Em
-l1:  My God, I thought you were someone to rely on
+l1:   My God, I thought you were someone to rely on
 
 c1: A
 l1: Me? I guess I was a shoulder to cry on
@@ -153,8 +153,8 @@ c1:   Bm
 l1: A man undercover but you tore him apart
 
 c1: Em
-l1:  Maybe ... next year ...
-l2: (spoken)
+l1:   Maybe ... next year ...
+l2:   (spoken)
 
 c1:      A                                               D
 l1: I'll give it to someone, I'll give it to someone ... special
