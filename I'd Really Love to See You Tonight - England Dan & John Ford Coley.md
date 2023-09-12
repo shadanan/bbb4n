@@ -110,6 +110,6 @@ l1: But there's a warm wind blowin',
 c1:     Em7               Am           
 l1: The stars are out,
 
-c1:         G7sus4                
+c1:         G7sus4                 Cmaj7
 l1: and I'd really love to see you tonight.         
 l2:                                really love to see you tonight.
