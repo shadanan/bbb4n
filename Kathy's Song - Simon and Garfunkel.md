@@ -4,6 +4,8 @@ youTubeId: fXZyDtzDJMY
 
 # Kathy's Song - Simon and Garfunkel
 
+[Finger picking tutorial](https://www.youtube.com/watch?v=dKU5AzEEsrg)
+
 Paul Simon (Simon and Garfunkel - Kathy's Song, 1969, *live version)
 
 ## Verse 1
