@@ -8,6 +8,10 @@ youTubeId: fXZyDtzDJMY
 
 Paul Simon (Simon and Garfunkel - Kathy's Song, 1969, *live version)
 
+### Intro
+
+c1: G C | G | G C | G
+
 ## Verse 1
 
 c1: G          C              G
@@ -19,8 +23,11 @@ l1:  Like a memory it falls
 c1: G         Bm   G      C
 l1:  Soft and warm continuing
 
-c1: Am       Em    D        G    C G
+c1: Am       Em    D        G    C
 l1:  Tapping on my roof and walls
+
+### Interlude
+c1: G C | G C | G C
 
 ## Verse 2
 
@@ -33,22 +40,28 @@ l1:  Through the window of my eyes
 c1: G         Bm       G             C
 l1:  I gaze beyond the rain drenched streets
 
-c1: Am  Em               D     G    C G
-l1:  To England where my heart lies
+c1:    Am               D     G    C
+l1: To England where my heart lies
+
+### Interlude
+c1: G C | G C | G C | D | D | D | D | G C | G
 
 ## Verse 3
 
 c1: G            C              G
 l1: My mind's distracted and diffused
 
-c1: Am  Em                C      D7
+c1: Am               Em   C      D7
 l1:  My thoughts are many miles away
 
 c1: G              Bm       G       C
 l1:  They lie with you when you're asleep
 
-c1: Am            Em       D          G  C G
+c1: Am            Em       D          G  C
 l1:  And kiss you when you start your day
+
+### Interlude
+c1: G C | G C | G C
 
 ## Verse 4
 
@@ -61,8 +74,11 @@ l1:  I don't know why I spend my time
 c1: G        Bm      G       C
 l1:  Writing songs I can't believe
 
-c1: Am               Em       D         G    C G
-l1:  With words that tear and strain to rhyme
+c1:      Am         Em       D         G    C
+l1: With words that tear and strain to rhyme
+
+### Interlude
+c1: G C | D | D | D | D | G C | G
 
 ## Verse 5
 
@@ -78,6 +94,9 @@ l1:  I stand alone without beliefs
 c1: Am        Em      D       G  C G
 l1:  The only truth I know is you
 
+### Interlude
+c1: G C | G C | G C
+
 ## Verse 6
 
 c1: G        C                  G
@@ -89,5 +108,15 @@ l1:  weave their weary paths and die
 c1: G            Bm   G        C
 l1:  I know that I am like the rain
 
-c1: Am                 Em       D      G  C G
+c1: Am         Em               D      G  C G C
 l1:  There but for the grace of you go I
+
+### Extro
+
+c1: G  | C  | C | G
+
+c1: Am | Em | C | D7
+
+c1: G  | Bm | G | C
+
+c1: Am | Em | D | G
