@@ -2,6 +2,8 @@
 youTubeId: hT_nvWreIhg
 ---
 
+Capo on 4
+
 # Counting Stars - One republic
 
 ## Intro
