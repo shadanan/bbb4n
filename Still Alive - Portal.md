@@ -3,37 +3,6 @@
 
 # Still Alive - Portal
 
-## VERSE
- 
-c1: D Bm D Bm
-
-c1: D Bm D Bm
-
-c1: Em A7
-
-c1: D Bm D Bm
-
-c1: D Bm D Bm
-
-c1: D Bm D Bm
-
-c1: Em A7
-l1: BbM7
-
-## CHORUS
- 
-c1: F C Bb F
-
-c1: F C Bb F
-
-c1: Gm C F C/E Dm
-
-c1: Bb A7
-
-c1: D Bm D Bm
-
-c1: D Bm D Bm
-
 ## Intro/Verse 1
  
 c1:              D     Bm D
@@ -166,8 +135,6 @@ l1: And when you're dead I will be still alive
 
 c1: Bm         D
 l1: Still alive
-l2: Bm         D (choke)
-l3: Still alive
-l4: The fingerpicking is just on the G, B, and E strings, it's reasonably easy to figure out.
-l5: For D and Bm, just use xxx232 and xxx432. G is xxx433 and A7 is xxx223.
-l6: *it's a lie.
+
+c1: Bm         D (choke)
+l1: Still alive
