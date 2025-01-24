@@ -4,79 +4,126 @@ youTubeId: 0XlO39kCQ-8
 
 # Istanbul - They Might Be Giants
 
-## Intro
-
-c1: Am Am Am E7 E7 Am Dm  Dm Am
+Capo on fret 3 (chords relative to cappo)
  
-## Verse 1
-c1: Am           Am                       Am            Am
-l1: Istanbul was Constantinople, now it's Istanbul, not Constantinople
+c1: Dm  
+l1: Istanbul was Constantinople 
 
-c1:         E7                 E7
-l1: Been a long time gone, old Constantinople
+c1:           Dm  
+l1: Now it's Istanbul, not Constantinople 
 
-c1:          Am        Dm         Dm      Am
-l1: Now it's Turkish delight on a moonlit night
+c1:         A7  
+l1: Been a long time gone, Constantinople 
 
-c1: Am           Am                      Am            Am
-l1: Every gal in Constantinople lives in Istanbul, not Constantinople
+c1:           Dm  
+l1: Now it's Turkish delight on a moonlit night 
 
-c1:       E7               E7                        Am         E7    Am
-l1: So if you've a date in Constantinople, she'll be waiting in Istanbul
+c1: Dm  
+l1: Every gal in Constantinople 
 
-## Chorus
-c1:      Am      Am       Am             Am
-l1: Even old New York was once New Amsterdam
+c1:           Dm  
+l1: Lives in Istanbul, not Constantinople 
 
-c1: Bm7                 E7           Am                   E7
-l1: Why they changed it I can't say, people just liked it better that way
+c1:       A7  
+l1: So if you've a date in Constantinople 
 
-## Verse 2
-c1:    Am              Am                     Am               Am
-l1: So take me back to Constantinople, no you can't go back to Constantinople
+c1:           Dm         A7     Dm  
+l1: She'll be waiting in Istanbul
+l2: (slow down slightly at this part)
 
-c1:         E7              E7                      Am                     Am
-l1: Been a long time gone,  Constantinople, why did Constantinople get the works?
+c1:       Dm               Dm      A7     Dm  
+l1: Even old New York was once New Amsterdam 
+l2: (back to normal speed)
 
-c1:        E7                        Am
+c1: A7  
+l1: Why they changed it I can't say 
+
+c1: A  
+l1: People just liked it better that way 
+
+c1: Dm
+l1: So take me back to Constantinople 
+
+c1:         Dm
+l1: No, you can't go back to Constantinople 
+
+c1:        A7
+l1: Been a long time gone, Constantinople 
+
+c1:         Dm
+l1: Why did Constantinople get the works? 
+
+c1:        A7                        Dm
 l1: That's nobody's business but the Turks
 
-## Bridge 1
-c1: Am                          Am
-l1: Do do do do dodo do dododo, Do do do do dodo do dododo
+c1: Dm
+l1: Waooooooh
 
-c1: E7                              Am
-l1: Do do do do dodo do dododo,     Itstanbul,(Itstanbul)
+c1: Dm
+l1: Waaaaaooooooh
 
-c1: Am                          Am
-l1: Do do do do dodo do dododo, Do do do do dodo do dododo
+c1: A7
+l1: Waaaaaooooooh
 
-c1: E7                              Am
-l1: Do do do do dodo do dododo,     Itstanbul,(Itstanbul)
+c1: Dm  
+l1: Waaaaaaoooh
 
-## Chorus
- 
-## Verse 1
-Istanbul was Constantinople,
-now it's Istanbul, not Constantinople
-Been a long time gone, old Constantinople
-Why did constantinople get the works
-That's nobodys business but the Turks
- 
-## Bridge 2
-c1: Am Am Em
+l1: Istanbul (Istanbul)
 
-c1: Am                          Am
-l1: Do do do do dodo do dododo, Do do do do dodo do dododo
+c1: Dm
+l1: Waooooooh
 
-c1: E7                          Am
-l1: Do do do do dodo do dododo, Do do do dodo dodo
+c1: Dm
+l1: Waaaaaooooooh
 
-## Verse 2
-So take me back to Constantinople
-No, You can't go back to Constantinople
-Been a long time gone Constantinople
-Why did Constantinople get the works?
-That's nobodys business but the Turks.
- 
-ISTANBUL!!!!
+c1: A7
+l1: Waaaaaooooooh
+
+c1: Dm  
+l1: Waaaaaaoooh
+
+l1: Istanbul (Istanbul)
+
+c1:       Dm               Dm      A7     Dm  
+l1: Even old New York was once New Amsterdam 
+l2: (back to normal speed)
+
+c1: A7  
+l1: Why they changed it I can't say 
+
+c1: A  
+l1: People just liked it better that way 
+
+c1: Dm
+l1: Istanbul was Constantinople 
+
+c1:           Dm
+l1: Now it's Istanbul, not Constantinople 
+
+c1:         A7
+l1: Been a long time gone, Constantinople
+
+c1:         Dm
+l1: Why did Constantinople get the works? 
+
+c1:        A7                        Dm
+l1: That's nobody's business but the Turks.
+l2: Dm Dm A7 Dm x2
+
+c1:     Dm
+l1: So take me back to Constantinople 
+
+c1:         Dm
+l1: No, you can't go back to Constantinople 
+
+c1:        A7
+l1: Been a long time gone, Constantinople 
+
+c1:         Dm
+l1: Why did Constantinople get the works? 
+
+c1:        A7                        Dm
+l1: That's nobody's business but the Turks.
+
+c1:      Dm  
+l1: Istanbul
