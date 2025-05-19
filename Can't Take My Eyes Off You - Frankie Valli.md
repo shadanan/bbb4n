@@ -63,7 +63,7 @@ l1: Can't take my eyes off of you.
 
 ## Interlude
  
-c1: F# A E E
+c1: F# A E E (x2)
 
 ## Chorus
  
@@ -113,7 +113,7 @@ l1: Can't take my eyes off of you.
 
 ## Interlude
  
-c1: F# A E E (x2)
+c1: F# A E E
 
 ## Chorus
  
