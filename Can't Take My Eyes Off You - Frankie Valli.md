@@ -6,7 +6,7 @@ youTubeId: J36z7AnhvOM
 
 ## Intro
  
-c1: F# A E E (x2)
+c1: F# Am E E (x2)
  
  
 ## Verse 1
@@ -63,7 +63,9 @@ l1: Can't take my eyes off of you.
 
 ## Interlude
  
-c1: F# A E E (x2)
+c1: F#m B7 E E
+
+c1: F#m B7 E C#7
 
 ## Chorus
  
@@ -113,7 +115,7 @@ l1: Can't take my eyes off of you.
 
 ## Interlude
  
-c1: F# A E E
+c1: F#m B7 E C#7
 
 ## Chorus
  
