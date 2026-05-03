@@ -100,3 +100,17 @@ l1: Shradhaa bhakti badaavo, Shradhaa bhakti badaavo
 
 c1: Bm     A    G       A             D
 l1: Santan ki sevaa, Om jai Jagdish hare
+
+## Chorus
+
+c1:    D             A         Em            A
+l1: Om jai jagdish hare, Swami jai jagdish hare
+
+c1: A       G     D       A      G     D
+l1: Bhakt jano ke sankat, Daas jano ke sankat
+
+c1: Bm         A      G      A           D
+l1: Kshan mein door kare, Om jai jagdish hare
+
+c1:    A           D        A           D
+l1: Om jai jagdish hare, Om jai jagdish hare
