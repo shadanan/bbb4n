@@ -26,7 +26,7 @@ l2: Swami dukh bin se mann ka
 c1: A       G         D     A       G         D
 l1: Sukh sampati ghar aave, Sukh sampati ghar aave
 
-c1: D              G      A             D
+c1: Bm      A      G      A             D
 l1: Kasht mite tan ka, Om jai jagdish hare
 
 ## Verse 2
@@ -40,7 +40,7 @@ l2: Swami Sharan kohon kiski,
 c1: A       G      D     A          G      D
 l1: Tum bin aur na duja, Prabhu bin aur na duja
 
-c1: D                  G      A             D
+c1: Bm    A            G      A             D
 l1: Aas karoon main kiski, Om jai jagdish hare
 
 ## Verse 3
@@ -54,7 +54,7 @@ l2: Swami tum antariyaami
 c1: A      G     D        A      G     D
 l1: Par brahm parmeshvar, Par brahm parmeshvar
 
-c1: D            G      A             D
+c1: Bm     A     G      A             D
 l1: Tum sabke swami, Om jai jagdish hare
 
 <!--## Verse 4-->
@@ -98,5 +98,5 @@ l2: Swaami paap haro Deva
 c1: A        G        D      A        G        D
 l1: Shradhaa bhakti badaavo, Shradhaa bhakti badaavo
 
-c1: D           G       A             D
+c1: Bm     A    G       A             D
 l1: Santan ki sevaa, Om jai Jagdish hare
