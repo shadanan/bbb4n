@@ -34,7 +34,7 @@ l1: Kasht mite tan ka, Om jai jagdish hare
 I am Him, thou art Her. 
 I am song, thou art verse. 
 I am heaven, thou art earth. 
-Let us live together in harmony and be blessed with progeny.
+Let us live together in harmony and live a blessed life.
 
 ## Verse 2
 
