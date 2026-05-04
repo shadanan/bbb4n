@@ -52,7 +52,7 @@ l1: Aas karoon main kiski, Om jai jagdish hare
 
 ---
 
-O Lord, unit this couple, two birds in love.
+O Lord, unite this couple, two birds in love.
 Let them be fruitful and live a full life in a home of bliss.
 
 ## Verse 3
