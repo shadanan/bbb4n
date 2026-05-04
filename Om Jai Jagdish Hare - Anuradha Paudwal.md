@@ -72,7 +72,7 @@ l1: Tum sabke swami, Om jai jagdish hare
 ---
 
 Live here together and enjoy a fulfilling life.
-Rejoice in your abode happily with your children and grandchildren.
+Rejoice in your abode happily in abundance.
 
 <!--## Verse 4-->
 
