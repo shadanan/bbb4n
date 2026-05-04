@@ -29,6 +29,13 @@ l1: Sukh sampati ghar aave, Sukh sampati ghar aave
 c1: Bm      A      G      A             D
 l1: Kasht mite tan ka, Om jai jagdish hare
 
+---
+
+I am Him, thou art Her. 
+I am song, thou art verse. 
+I am heaven, thou art earth. 
+Let us live together in harmony and be blessed with progeny.
+
 ## Verse 2
 
 c1: D                     D        Bm     A
@@ -43,6 +50,11 @@ l1: Tum bin aur na duja, Prabhu bin aur na duja
 c1: Bm    A            G      A             D
 l1: Aas karoon main kiski, Om jai jagdish hare
 
+---
+
+O Lord, unit this couple, two birds in love.
+Let them be fruitful and live a full life in a home of bliss.
+
 ## Verse 3
 
 c1: D                   D     Bm     A
@@ -56,6 +68,11 @@ l1: Par brahm parmeshvar, Par brahm parmeshvar
 
 c1: Bm     A     G      A             D
 l1: Tum sabke swami, Om jai jagdish hare
+
+---
+
+Live here together and enjoy a fulfilling life.
+Rejoice in your abode happily with your children and grandchildren.
 
 <!--## Verse 4-->
 
