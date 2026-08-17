@@ -1,11 +1,10 @@
 ---
+youTubeId: ihb56QpQ4ZM
 ---
 
-# All I Have To Do - The Everly Brothers
+Capo on 3
 
-Capo III * or IV ** (depending on which version you are listening to)
-
-## Intro
+# Intro
 
 c1: C
 
@@ -15,7 +14,7 @@ l1: Drea-ea-ea-ea-eam, dream, dream, dream
 c1: C             Am   F             G
 l1: Drea-ea-ea-ea-eam, dream, dream, dream
 
-## Verse 1
+# Verse 1
 
 c1:      C      Am  F      G
 l1: When I want you, in my arms
@@ -29,7 +28,7 @@ l1: Whenever I want you, all I have to do is
 c1: C             Am   F             G
 l1: Drea-ea-ea-ea-eam, dream, dream, dream
 
-## Verse 2
+# Verse 2
 
 c1:      C      Am   F       G
 l1: When I feel blue, in the night
@@ -43,7 +42,7 @@ l1: Whenever I want you, all I have to do is
 c1: C          F  C   C7
 l1: Drea-ea-ea-ea-eam
 
-## Bridge
+# Bridge
 
 c1: F                    Em
 l1: I can make you mine, taste your lips of wine
@@ -57,7 +56,7 @@ l1: Only trouble is,  gee whiz
 c1:     D7                G   F Em Dm
 l1: I'm dreamin' my life away
 
-## Verse 3
+# Verse 3
 
 c1:   C        Am  F             G
 l1: I need you so,  that I could die
@@ -97,7 +96,7 @@ l1: I love you so,  and that is why
 c1: C          Am        F             G
 l1: Whenever I want you, all I have to do is
 
-## Extro
+# Extro
 
 c1: C             Am   F             G
 l1: Drea-ea-ea-ea-eam, dream, dream, dream
