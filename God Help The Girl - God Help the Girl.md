@@ -1,6 +1,8 @@
 ---
 ---
 
+Capo on 4
+
 # God Help The Girl - God Help the Girl
 
 ## Intro
