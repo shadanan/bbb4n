@@ -56,7 +56,7 @@ l1:    Backward at school, I wrote from right to left
 c1: C                D
 l1:    Teacher never cared for me
 
-c1: G                  E
+c1: G                  Em
 l1:    Preacher said a prayer for me
 
 c1: C                                       D
@@ -109,7 +109,7 @@ l1:    Backward at school, I wrote from right to left
 c1: C                D
 l1:    Teacher never cared for me
 
-c1: G                  E
+c1: G                  Em
 l1:    Preacher said a prayer for me
 
 c1: C                                       D
