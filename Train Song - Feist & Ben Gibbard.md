@@ -39,7 +39,8 @@ l1: But suddenly now I know where I belong
 
 c1:       C            G/F         Dm        Am  Am6
 l1: It's many hundred miles and it won't be long
-l2: Am  Am6  x3
+
+c1: Am  Am6  (x3)
 
 ## Verse 2
  
@@ -68,7 +69,8 @@ l1: But suddenly now I know where I belong
 
 c1:       C            G7          Dm        Am  Am6
 l1: It's many hundred miles and it won't be long
-l2: Am  Am6  x3
+
+c1: Am  Am6  (x3)
 
 ## Verse 3
  
