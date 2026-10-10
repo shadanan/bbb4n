@@ -1,10 +1,16 @@
 ---
 youTubeId: 28VPRoA0u-M
+
+chords:
+  Am6:
+    - n3,2 n4,2 n5,1 n6,2
 ---
+
+Capo on 3
 
 ## Intro
  
-Am  Am6  x4
+c1: Am  Am6  (x4)
  
 ## Verse 1
  
