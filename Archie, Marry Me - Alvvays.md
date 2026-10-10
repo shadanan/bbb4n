@@ -74,7 +74,7 @@ l1: Marry me Archie
 
 ## Solo
  
-D  A  Em  G (x2)
+c1: D  A  Em  G (x2)
  
  
 ## Outro
