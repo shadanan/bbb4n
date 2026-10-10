@@ -112,5 +112,5 @@ l1: Marry me Archie
 c1: D        A
 l1: Hey hey
 
-c1: Em       G   A
+c1: Em       G   D
 l1: A-R-C-H-I-E
