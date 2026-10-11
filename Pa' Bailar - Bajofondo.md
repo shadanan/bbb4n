@@ -3,7 +3,7 @@
 
 ## Intro
  
-Fm C7 Fm  (2x)
+c1: Fm C7 Fm  (x2)
  
  
 ## Verse
